@@ -1,6 +1,7 @@
 This boilerplate is built using [create-react-app](https://github.com/facebook/create-react-app) so you will want to read the User Guide for more goodies.
 
-Use `npm install` to build. Followed by `npm start` to run the application.
+Use `npm install` to build.
+`npm start` runs the server and opens the application in a browser.
 
 ## App Info
 
